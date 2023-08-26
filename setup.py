@@ -47,6 +47,7 @@ setup(
         "requests>=2.31.0,<2.32.0",
         "rich>=12.5.1,<12.6.0",
     ],
+    python_requires=">=3.8",
     include_package_data=True,
     zip_safe=True,
     license="MIT",
